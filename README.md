@@ -9,7 +9,7 @@
 <img src = "https://github.com/BhavyaBhalla-27/Assignment-2/assets/114859167/a438d646-72de-4eb6-abd9-0f04534bf2fa" width = "100%" height="100%" />
 
 ## **3. Conclusion**
-The best model performed in our case is the LightBGM Model with average accuracy of 99.025%.
+The best model performed in our case is the LightGBM Model with average accuracy of 99.025%.
 
 ## **Details**
 Name - Bhavya Bhalla 
